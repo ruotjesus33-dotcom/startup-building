@@ -1,0 +1,255 @@
+# Slide 1 — Title
+
+**SpendWise**
+
+### Smart Budgeting for Everyday Life
+
+**Track. Understand. Save.**
+
+**Presented by:** Ruot
+
+---
+
+# Slide 2 — The Problem
+
+### Managing Money Can Be Difficult
+
+- People often lose track of their daily expenses.
+- Small purchases can add up quickly.
+- Manual expense tracking can be time-consuming.
+- People may not know how much they spend in different categories.
+- Poor visibility of spending can make it difficult to stay within a budget.
+
+**Problem:** People need a simple way to understand and manage their everyday spending.
+
+---
+
+# Slide 3 — The Solution
+
+### Introducing SpendWise
+
+SpendWise is a simple budgeting and expense-tracking application that helps users manage their money in one place.
+
+**Users can:**
+
+- Set a budget
+- Record expenses
+- Categorize spending
+- Calculate their remaining balance
+- Monitor their spending
+
+**SpendWise makes everyday budgeting simple and understandable.**
+
+---
+
+# Slide 4 — Target Customer
+
+### Who Is SpendWise For?
+
+**Primary users:**
+
+- Students
+- Young professionals
+- People beginning to manage their own finances
+- Anyone who wants to track everyday spending
+
+**Their need:**
+
+A simple, accessible budgeting tool that does not require advanced financial knowledge.
+
+---
+
+# Slide 5 — Value Proposition
+
+### Why SpendWise?
+
+**Simple**
+Easy to understand and use.
+
+**Organized**
+Expenses are grouped into clear categories.
+
+**Useful**
+Users can see their budget and remaining balance.
+
+**Accessible**
+Designed to make basic budgeting approachable.
+
+### Our promise
+
+**SpendWise helps people understand where their money goes so they can make more informed spending decisions.**
+
+---
+
+# Slide 6 — The Product
+
+### How SpendWise Works
+
+**1. Set a budget**
+Enter the amount available for the period.
+
+**2. Add expenses**
+Record money spent.
+
+**3. Categorize expenses**
+Organize spending into categories such as Food, Transport, Rent, Entertainment, Savings, and Utilities.
+
+**4. View your balance**
+See how much remains from the budget.
+
+**5. Monitor spending**
+Use the dashboard to understand spending patterns.
+
+**User journey:**
+
+**Set Budget → Add Expenses → Categorize → Check Balance → Manage Spending**
+
+---
+
+# Slide 7 — Market Opportunity
+
+### The Opportunity
+
+People increasingly use digital tools to manage everyday activities, including personal finances.
+
+SpendWise focuses on users who need a straightforward way to track spending and manage a personal budget.
+
+**Potential users include:**
+
+- Students managing limited income
+- Young adults becoming financially independent
+- Employees managing monthly expenses
+- People who want a simple alternative to spreadsheets or notebooks
+
+### Opportunity
+
+Start with simple budgeting and expense tracking, then expand the product based on user needs.
+
+---
+
+# Slide 8 — Business Model
+
+### How SpendWise Could Make Money
+
+SpendWise could use a **freemium model**.
+
+**Free version**
+
+- Basic budgeting
+- Expense tracking
+- Categories
+- Balance calculations
+
+**Premium version**
+
+- Advanced spending reports
+- Historical spending analysis
+- Custom categories
+- Additional budgeting tools
+- More detailed insights
+
+### Revenue
+
+**Premium subscriptions** could provide the main revenue stream, with other partnerships or services considered as the product grows.
+
+---
+
+# Slide 9 — Competition
+
+### Existing Alternatives
+
+People currently manage their money using:
+
+- Paper notebooks
+- Spreadsheets
+- Banking applications
+- Personal finance applications
+
+### SpendWise Focus
+
+SpendWise focuses on making **basic budgeting simple and easy to understand**.
+
+**Key difference:**
+
+Simple interface + clear categories + expense tracking + understandable budget information.
+
+---
+
+# Slide 10 — Validation & Traction
+
+### What We Have Built
+
+SpendWise is being developed from a dashboard prototype into an interactive budgeting application.
+
+**Current progress:**
+
+- Dashboard structure created
+- CSS Grid and Flexbox layout implemented
+- Expense categories defined
+- JavaScript functionality being added
+- Budget calculations implemented
+- Interactive expense management being developed
+
+### Next Steps
+
+- Test the application with potential users.
+- Collect feedback.
+- Identify the most useful features.
+- Improve the product based on user feedback.
+
+**Goal:** Validate the product with real users and continue improving it.
+
+---
+
+# Slide 11 — Team
+
+### Who Is Building SpendWise?
+
+**Ruot — Founder / Developer**
+
+**Responsibilities:**
+
+- Product idea and direction
+- User interface development
+- HTML and CSS
+- JavaScript functionality
+- Python and SQL development
+- Testing and improvement
+
+**Skills:**
+
+Web Development | JavaScript | Python | SQL | UI Design | Problem Solving
+
+---
+
+# Slide 12 — The Ask
+
+### What We Need
+
+We are seeking **support to develop and validate SpendWise further.**
+
+### The support would help with:
+
+**Product Development**
+
+- Improve existing features
+- Add useful budgeting tools
+- Improve usability
+
+**User Testing**
+
+- Test with potential users
+- Gather feedback
+- Improve the product
+
+**Growth**
+
+- Reach potential users
+- Build awareness
+- Explore partnerships
+
+### Goal
+
+Turn SpendWise from a developing budgeting application into a **useful, user-tested personal budgeting product.**
+
+**Thank You**
